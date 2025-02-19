@@ -5,3 +5,6 @@ https://assetstore.unity.com/packages/3d/environments/3d-low-poly-room-furniture
 https://assetstore.unity.com/packages/3d/environments/apartment-kit-124055
 https://polyhaven.com/a/side_table_01
 https://polyhaven.com/a/wooden_display_shelves_01
+https://assetstore.unity.com/packages/3d/props/interior/office-pack-free-258600
+https://polyhaven.com/a/Camera_01
+https://assetstore.unity.com/packages/3d/vegetation/flowers/free-flower-ceramic-vases-187046
